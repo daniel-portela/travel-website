@@ -17,10 +17,9 @@
 - Desenvolvido primeiro com a metodologia Mobile First, depois para desktop.
 - Compatível com todos os dispositivos móveis.<br><br>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
 ![Travel](preview-travel-site.png)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
 
 <br><b>Contato:</b>
