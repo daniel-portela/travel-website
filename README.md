@@ -10,12 +10,12 @@
 <p>Site de viagens para as mais belas praias, utilizando HTML5, SCSS, CSS3 e JavaScript</p>
 
 <a href="https://travelsiteviagem.netlify.app/"><strong>Demonstração ao vivo</strong></a>
-</div>
+</div><br><br>
 
 - Contém animações durante a rolagem.
 - Inclui um modo claro e escuro.
 - Desenvolvido primeiro com a metodologia Mobile First, depois para desktop.
-- Compatível com todos os dispositivos móveis.<br><br>
+- Compatível com todos os dispositivos móveis.<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
