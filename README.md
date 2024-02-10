@@ -10,15 +10,16 @@
 <p>Site de viagens para as mais belas praias, utilizando HTML5, SCSS, CSS3 e JavaScript</p>
 
 <a href="https://travelsiteviagem.netlify.app/"><strong>Demonstração ao vivo</strong></a>
-</div><br><br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
-![alt text](preview-lightmode.jpg)
+![preview-lightmode](https://github.com/daniel-portela/travel-website/assets/110783805/36f84798-9423-4972-a311-51f7e45430ed)
 
-![alt text](preview-responsive.jpg)
+![preview-responsive](https://github.com/daniel-portela/travel-website/assets/110783805/e57b7dd3-058f-4f89-b8aa-f2c08e9ac0d0)
 
-![alt text](preview-darkmode.jpg)
+![preview-darkmode](https://github.com/daniel-portela/travel-website/assets/110783805/f9cc9533-bff9-4cfc-91d4-8de05ef74b00)
+
 
 <b>HTML5:</b>
 
