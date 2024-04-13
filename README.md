@@ -12,8 +12,6 @@
 <a href="https://travelsiteviagem.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
-
 ![preview-lightmode](https://github.com/daniel-portela/travel-website/assets/110783805/36f84798-9423-4972-a311-51f7e45430ed)
 
 ![preview-responsive](https://github.com/daniel-portela/travel-website/assets/110783805/e57b7dd3-058f-4f89-b8aa-f2c08e9ac0d0)
@@ -47,16 +45,8 @@ Isso implica que o projeto será responsivo, ou seja, se adaptará a diferentes 
 
 Resumindo, o projeto foi desenvolvido com HTML, CSS/SCSS e JavaScript para criar uma página web interativa com animações durante a rolagem e suporte para modos claro e escuro. Ele seguirá a metodologia Mobile First para garantir a compatibilidade com todos os dispositivos móveis, antes de ser aprimorado para dispositivos desktop.
 
-<br><b>Contato:</b>
+<b>Contato:</b>
 
-<p>Se você quiser entrar em contato comigo, sinta-se a vontade.</p> 
+Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
-<a href="https://linkedin.com/in/danielengineer" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
- <a href="https://instagram.com/danielengineer_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
- <a href="https://wa.me/77999109489" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
-</a>
+Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a> 
