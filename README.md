@@ -1,15 +1,8 @@
 <div align="center">
 
-<b>Site de viagens responsivo - Travel</b>
-
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass&logoColor=roxo&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
+Site de viagens responsivo - <a href="https://travelsiteviagem.netlify.app/">Travel</a>
 
 <p>Site de viagens para as mais belas praias, utilizando HTML5, SCSS, CSS3 e JavaScript</p>
-
-<a href="https://travelsiteviagem.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
 ![preview-lightmode](https://github.com/daniel-portela/travel-website/assets/110783805/36f84798-9423-4972-a311-51f7e45430ed)
@@ -18,6 +11,12 @@
 
 ![preview-darkmode](https://github.com/daniel-portela/travel-website/assets/110783805/f9cc9533-bff9-4cfc-91d4-8de05ef74b00)
 
+👨🏼‍💻 <b>Tecnologias utilizadas:</b>
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass&logoColor=roxo&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;<hr>
 
 <b>HTML5:</b>
 
@@ -43,10 +42,8 @@ A metodologia Mobile First envolve projetar e desenvolver primeiro para disposit
 
 Isso implica que o projeto será responsivo, ou seja, se adaptará a diferentes tamanhos de tela e dispositivos, desde smartphones até tablets e computadores de mesa. Isso é alcançado principalmente por meio do uso de técnicas de design responsivo, como layouts flexíveis, unidades de medida relativas (por exemplo, %, em) e media queries para ajustar o layout e os estilos com base no tamanho da tela do dispositivo.
 
-Resumindo, o projeto foi desenvolvido com HTML, CSS/SCSS e JavaScript para criar uma página web interativa com animações durante a rolagem e suporte para modos claro e escuro. Ele seguirá a metodologia Mobile First para garantir a compatibilidade com todos os dispositivos móveis, antes de ser aprimorado para dispositivos desktop.
-
-<b>Contato:</b>
+✉️ <b>Contato:</b>
 
 Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
-Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a> 
+Email: <a href="mailto:danielportela.ti@gmail.com">danielportela.ti@gmail.com</a> 
